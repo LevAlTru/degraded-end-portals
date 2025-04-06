@@ -1,9 +1,21 @@
-# Fabric Example Mod
+# Degraded End Portals
+[Github](https://github.com/LevAlTru/degraded_end_portals) | [Modrinth](https://modrinth.com/mod/degraded_end_portals)
 
-## Setup
+## Functionality
+Makes strongholds generate degraded portals.
+Degraded portals are unusable, which makes them unusable as a portal to The End
 
-For setup instructions please see the [fabric documentation page](https://docs.fabricmc.net/develop/getting-started/setting-up-a-development-environment) that relates to the IDE that you are using.
+<br>
 
-## License
+WARNING: <br>
+**There is a small chance where the portal can be still usable.** <br>
+The chance is `0.7^12` or `~1.4%`. The chance for a world to have a usable end portal is `(1-(1-~0.014)^128)` or `~83.2%`
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+
+
+## Gallery
+Portal in Yung's Better Stronghold:<br>
+![yungs-better-stronghold-portal](https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kjyty26tl25aixu3cedyyyuk/bafkreiewuf6fzkp7e54nf3gmbzj7fhjke2jhmpvh6hjvenusdp4dox6ewm@jpeg)
+
+Icon:<br>
+![degraded_end_portals_icon-export](https://cdn.modrinth.com/data/iKJbeCDu/images/9c0b211872f0d4edb4bf6c473e2fa863560d0073.png)
