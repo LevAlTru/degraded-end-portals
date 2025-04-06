@@ -14,6 +14,13 @@ The chance is `0.7^12` or `~1.4%`. The chance for a world to have a usable end p
 ## Compatibility
 Works with [YUNG's Better Strongholds](https://modrinth.com/mod/yungs-better-strongholds)
 
+## Q&A
+<details>
+<summary>Will it be available for other modloaders and versions?</summary>
+I am lazy to port for the other modloaders, and i do promise that i'll port this mod to newer version.<br><br>
+  In short: do not expect any updates.
+</details>
+
 ## Gallery
 Portal in Yung's Better Stronghold:<br>
 ![yungs-better-stronghold-portal](https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kjyty26tl25aixu3cedyyyuk/bafkreiewuf6fzkp7e54nf3gmbzj7fhjke2jhmpvh6hjvenusdp4dox6ewm@jpeg)
