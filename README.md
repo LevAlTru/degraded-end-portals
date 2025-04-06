@@ -1,5 +1,5 @@
 # Degraded End Portals
-[Github](https://github.com/LevAlTru/degraded_end_portals) | [Modrinth](https://modrinth.com/mod/degraded_end_portals)
+[Github](https://github.com/LevAlTru/degraded-end-portals) | [Modrinth](https://modrinth.com/mod/degraded-end-portals)
 
 ## Functionality
 Makes strongholds generate degraded portals.
