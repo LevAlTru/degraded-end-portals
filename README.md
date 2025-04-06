@@ -11,7 +11,8 @@ WARNING: <br>
 **There is a small chance where the portal can be still usable.** <br>
 The chance is `0.7^12` or `~1.4%`. The chance for a world to have a usable end portal is `(1-(1-~0.014)^128)` or `~83.2%`
 
-
+## Compatibility
+Works with [YUNG's Better Strongholds](https://modrinth.com/mod/yungs-better-strongholds)
 
 ## Gallery
 Portal in Yung's Better Stronghold:<br>
