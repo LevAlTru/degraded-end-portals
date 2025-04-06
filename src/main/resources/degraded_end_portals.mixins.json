@@ -1,0 +1,13 @@
+{
+	"required": true,
+	"package": "levaltru.degraded_end_portals.mixins",
+	"compatibilityLevel": "JAVA_17",
+	"mixins": [
+		"AddDegradedPortalToEnderEyeMixin",
+		"EnderPortalsMixin",
+		"YungsStrongHoldPortalDegradingMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
