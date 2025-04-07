@@ -22,7 +22,7 @@ I am lazy to port for the other modloaders, and i do promise that i'll port this
 </details>
 
 ## Gallery
-Portal in Yung's Better Stronghold:<br>
+Portal in [YUNG's Better Strongholds](https://modrinth.com/mod/yungs-better-strongholds):<br>
 ![yungs-better-stronghold-portal](https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kjyty26tl25aixu3cedyyyuk/bafkreiewuf6fzkp7e54nf3gmbzj7fhjke2jhmpvh6hjvenusdp4dox6ewm@jpeg)
 
 Icon:<br>
