@@ -10,7 +10,7 @@
 	"contact": {
 		"sources": "https://github.com/LevAlTru/degraded_end_portals/"
 	},
-	"license": "MIT",
+	"license": "CC0-1.0",
 	"icon": "assets/degraded_end_portals/icon.png",
 	"environment": "*",
 	"entrypoints": {
